@@ -27,7 +27,7 @@
 	 	</div></a><hr class="visible-xs">
 	 	
 	 		<a href="sales.php"><div class="col-lg-4 col-md-4 col-sm-4 "><div id="wtiles">
-	 		<span>Sales</span>
+	 		<span>Sale</span>
 	 		</div>
 	 		</div></a><hr class="visible-xs">
 	 		<a onmousewheel="zoom" href="suppliers.php"><div class="col-lg-4 col-md-4 col-sm-4 "><div id="tiles">
